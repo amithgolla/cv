@@ -9,10 +9,15 @@ hr {
   border-width: 5px;
   width: 8%;
 }
-
-h1{
-  color: #3b6978;
+.row1{
+  background-color: #68b0ab;
 }
-h3{
-  color:#363636;
+.row2{
+  background-color: #8fc0a9;
+}
+.row3{
+  background-color: #c8d5b9;
+}
+.row4{
+  background-color: #d8d3cd;
 }
